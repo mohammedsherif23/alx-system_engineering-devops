@@ -10,4 +10,6 @@
 
 4. creating a script that lists environment variables.
 
-5. creating a script that list all local variables and enviroment variables and functions. 
+5. creating a script that list all local variables and enviroment variables and functions.
+
+6. creating a script that create a new local variable 
