@@ -12,4 +12,9 @@
 
 5. creating a script that list all local variables and enviroment variables and functions.
 
-6. creating a script that create a new local variable 
+6. creating a script that create a new local variable
+      Name: BEST; Value: School
+
+7. creating a script that creat a new global variable
+     Name: BEST; Value: School
+ 
