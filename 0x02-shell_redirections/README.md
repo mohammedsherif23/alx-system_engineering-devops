@@ -6,3 +6,5 @@
 
 3. - Displaying the content of the file /etc/passwd
 
+4. - Displaying the content of the file /etc/passwd and /etc/hosts
+
