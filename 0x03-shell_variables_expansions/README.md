@@ -26,4 +26,7 @@
 
 11. write a script that convert a number frombase 2 to base 10. 
 
-12.  
+12. create a script that print all possible combination of two letters, except oo
+
+13. write a script that prints a number with two decimal places followed by a new line the number will be store in a variable NUM
+  
