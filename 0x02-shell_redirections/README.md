@@ -4,3 +4,5 @@
 
 2. - Writing a script that display a confused smiley "(Ôo)'
 
+3. - Displaying the content of the file /etc/passwd
+
