@@ -10,4 +10,24 @@
 
 4. - Display the last 10 lines of /etc/passwd
 
+5. - Display the last 10 lines of /etc/passwd
+
+6. - Writing a script that display the third line of a file
+
+5. - Display the last 10 lines of /etc/passwd
+
+6. - Writing a script that display the third line of a file
+
+5. - Display the last 10 lines of /etc/passwd
+
+6. - Writing a script that display the third line of a file
+
+5. - Display the last 10 lines of /etc/passwd
+
+6. - Writing a script that display the third line of a file
+
+5. - Display the last 10 lines of /etc/passwd
+
+6. - Writing a script that display the third line of a file
+
 
