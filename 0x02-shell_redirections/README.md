@@ -30,4 +30,8 @@
 
 6. - Writing a script that display the third line of a file
 
+7. - write a script that create a file name in characters \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+
+8. - Write a script that writes into a file the  result of the command ls -la. If the file  already exists, it should be overwritten. If not, create it.
+
 
